@@ -1,0 +1,17 @@
+.root {
+    display: flex;
+    flex-direction: row;
+}
+
+.controls {
+    width: 150px;
+}
+
+.field {
+
+}
+
+.garland-ball {
+    position: absolute;
+    border-radius: 50%;
+}
